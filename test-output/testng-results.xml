@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-08T09:52:54 IST" name="Default suite" finished-at="2022-07-08T09:53:15 IST" duration-ms="21155">
+    <groups>
+    </groups>
+    <test started-at="2022-07-08T09:52:54 IST" name="Default test" finished-at="2022-07-08T09:53:15 IST" duration-ms="21155">
+      <class name="com.filpkart.testscenarios.PlaceOrder">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:52:54 IST" name="setUp" finished-at="2022-07-08T09:52:59 IST" duration-ms="4435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutTest()[pri:0, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:52:59 IST" name="logoutTest" finished-at="2022-07-08T09:52:59 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method signature="makePayment()[pri:0, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:52:59 IST" name="makePayment" finished-at="2022-07-08T09:52:59 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- makePayment -->
+        <test-method signature="placeOrderTest()[pri:0, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:52:59 IST" name="placeOrderTest" finished-at="2022-07-08T09:52:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+        <test-method signature="loginTest()[pri:1, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:52:59 IST" name="loginTest" finished-at="2022-07-08T09:53:07 IST" duration-ms="8069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="seachProductTest()[pri:2, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:53:07 IST" name="seachProductTest" finished-at="2022-07-08T09:53:10 IST" duration-ms="3084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seachProductTest -->
+        <test-method signature="selectProductTest()[pri:3, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:53:10 IST" name="selectProductTest" finished-at="2022-07-08T09:53:11 IST" duration-ms="1304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductTest -->
+        <test-method signature="addToCartTest()[pri:4, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:53:11 IST" name="addToCartTest" finished-at="2022-07-08T09:53:15 IST" duration-ms="4183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.filpkart.testscenarios.PlaceOrder@618425b5]" started-at="2022-07-08T09:53:15 IST" name="tearDown" finished-at="2022-07-08T09:53:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.filpkart.testscenarios.PlaceOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
